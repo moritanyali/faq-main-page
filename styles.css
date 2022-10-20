@@ -43,7 +43,7 @@ hr {
 }
 
 .content-box {
-    width: 80%;
+    width: 70%;
     height: 50rem;
     background-color: hsl(240, 5%, 91%);
     border-radius: 30px;
@@ -81,13 +81,13 @@ hr {
 
 .question-p {
     color: hsl(237, 12%, 33%);
-    font-size: 1rem;
+    font-size: 1.1rem;
     cursor: pointer;
 }
 
 .question-text {
     color: hsl(240, 6%, 50%);
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     
 }
 
@@ -113,10 +113,10 @@ hr {
 }
 
  .woman-illustration {
-    width: 100%;
-    min-height: 50vh;
+    width: 80%;
+    min-height: 30vh;
     position: relative;
-    right: 20%;
+    right: 24%;
 
 } 
 
@@ -126,7 +126,7 @@ hr {
     justify-content: center;
     justify-items: center;
     align-items: center;
-    min-height: 70vh;
+    min-height: 55vh;
 }
 
 .box {
@@ -148,7 +148,7 @@ top: -27rem;
 .mobile-images {
     display: none;
     position: absolute;
-    top: 1%;
+    top: 10%;
 }
 
 .illustration-shade {
@@ -160,7 +160,7 @@ top: -27rem;
     font-weight: 700;
 }
 
-@media screen and (max-width: 550px) { 
+@media screen and (max-width: 600px) { 
 
     .content-box {
 
@@ -174,17 +174,17 @@ top: -27rem;
     } 
 
     .question-col {
-        padding: 2rem 6rem 0 2rem;
+        padding: 2rem 10rem 0 2rem;
         position: absolute;
  
     }
 
     .question-p {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
 
     .question-text {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
         
     }
 
