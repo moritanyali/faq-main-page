@@ -37,7 +37,7 @@ hr {
     justify-content: center;
     justify-items: center;
     align-items: center;
-    
+    min-height: 100vh;
 }
 
 .content-box {
