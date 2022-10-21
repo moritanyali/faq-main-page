@@ -23,6 +23,11 @@ hr {
    margin-bottom: 1rem;
 }
 
+main {
+  
+    justify-content: center;
+}
+
 
 #myGrad {
     background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
